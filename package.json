@@ -1,7 +1,7 @@
 {
-  "name": "@bnb/card",
+  "name": "hidaka",
   "version": "1.6.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "description": "A personal card for Ryo Hidaka (@hidaka)",
   "main": "/bin/card.js",
   "bin": {
     "bitandbang": "./bin/card.js"
